@@ -13,7 +13,8 @@ MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)|MacBookPro16,2|2020
 MacBook Pro (16-inch, 2019)|MacBookPro16,1|2019
 MacBook Pro (16-inch, 2019)|MacBookPro16,4|2019
 MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)|MacBookPro15,4|2019
-MacBook Pro (15-inch, 2019)|MacBookPro15,1 MacBookPro15,3|2019
+MacBook Pro (15-inch, 2019)|MacBookPro15,1|2019
+MacBook Pro (15-inch, 2019)|MacBookPro15,3|2019
 MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)|MacBookPro15,2|2019
 MacBook Pro (15-inch, 2018)|MacBookPro15,1|2018
 MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports)|MacBookPro15,2|2018
@@ -30,7 +31,8 @@ MacBook (Retina, 12-inch, 2017)|MacBook10,1|2018
 iMac Pro|iMacPro1,1|2017
 iMac (24-inch, M1, 2021)|iMac21,1|2021
 iMac (24-inch, M1, 2021)|iMac21,2|2021
-iMac (Retina 5K, 27-inch, 2020)|iMac20,1 iMac20,2|2020
+iMac (Retina 5K, 27-inch, 2020)|iMac20,1|2020
+iMac (Retina 5K, 27-inch, 2020)|iMac20,2|2020
 iMac (Retina 5K, 27-inch, 2019)|iMac19,1|2019
 iMac (Retina 4K, 21.5-inch, 2019)|iMac19,2|2019
 iMac (Retina 5K, 27-inch, 2017)|iMac18,3|2017
